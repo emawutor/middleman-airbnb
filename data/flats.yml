@@ -1,0 +1,23 @@
+scar-lett:
+  name: "Scarlett's home"
+  description: "Charming Room in The Middle of no Where"
+  city_name: "Berlin, Germany"
+  city_slug: "alt.jpg"
+  wifi: false
+  rating: 4
+epero:
+  name: "Emanuel's home"
+  description: "Small Cave"
+  city_name: "Brussels, Belgium"
+  city_slug: "belgium.jpg"
+  wifi: true
+  rating: 3
+alinamichelle:
+  name: Alina's home
+  description: "Nice Bungalow"
+  city_name: "Monterrey, Mexico"
+  city_slug: "mexico.jpg"
+  wifi: true
+  rating: 5
+
+
